@@ -35,7 +35,7 @@
              <div class="container">
                 <div class="row">
                     <div class="col-sm-3 mb-3 mb-sm-0 order-sm-1 order-2"><div class="newsBox"><img src="assets/img/add1.jpg" class="w-100" alt=""></div></div>
-                    <div class="col-sm-6 px-sm-0 mb-3 mb-sm-0">
+                    <div class="col-sm-6 px-sm-0 mb-3 mb-sm-0 order-sm-2 order-1">
                         <div class="newsBox p-3">
                         
                             <div class="imgBlock shineIt hgt30 mb-3">
@@ -80,7 +80,7 @@
                             </div>
                          </div>
                     </div>
-                    <div class="col-sm-3 mb-3 mb-sm-0"><div class="newsBox"><img src="assets/img/add1.jpg" class="w-100" alt=""></div></div>
+                    <div class="col-sm-3 mb-3 mb-sm-0 order-sm-3 order-3"><div class="newsBox"><img src="assets/img/add1.jpg" class="w-100" alt=""></div></div>
                 </div>
              </div>
          </section>

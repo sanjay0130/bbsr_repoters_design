@@ -13,10 +13,10 @@
 
         
 
-         <section class="newsMain pb-5">
+         <section class="newsMain pb-sm-5 pb-3">
             <div class="container">
                <div class="row">
-                  <div class="col-md-3 mb-3 mb-sm-0">
+                  <div class="col-md-3 mb-3 mb-sm-0 order-sm-1 order-2">
                      <div class="newsBox">
                         <div class="nbHeading bg-gradient-dark">
                            <h5 class="text-white">ରାଜନୀତି</h5>
@@ -74,7 +74,7 @@
                         
                      </div>
                   </div>
-                  <div class="col-md-6 px-sm-0 mb-3 mb-sm-0">
+                  <div class="col-md-6 px-sm-0 mb-3 mb-sm-0 order-sm-2 order-1">
                      <div class="newsBox">
                         <div class="nbHeading bg-gradient-primary">
                            <h5 class="text-white">ମନୋରଂଜନ</h5>
@@ -143,61 +143,24 @@
                         
                      </div>
                   </div>
-                  <div class="col-md-3 mb-3 mb-sm-0">
+                  <div class="col-md-3 order-sm-3 order-3">
                      <div class="newsBox">
-                        <div class="nbHeading bg-gradient-dark">
-                           <h5 class="text-white">ରାଜନୀତି</h5>
+                        <div class="nbHeading bg-gradient-secondary">
+                           <h5 class="text-white">Tags</h5>
                         </div>
-                        <a href="detailsPage.php" class="imgBlock shineIt hgt15 mb-3">
-                           <img src="assets/img/news8.jpg" alt="" class="w-100">
-                           <div class="infoLayer">
-                              
-                              <p class="text-white">ବର୍ଷା ପ୍ରିୟଦର୍ଶିନୀଙ୍କ ପିଟିସନର ଶୁଣାଣି ଅକ୍ଟୋବର ୧୨ ତାରିଖକୁ ଘୁଞ୍ଚିଲା, ବୟାନ ରେକର୍ଡ଼ କଲେ ଅଧିକାରୀ</p>
-                              <span class="trendz">ଖେଳ</span><span class="trendz">ଶିକ୍ଷା</span>
-                           </div>
-                        </a>
-                        <div class="newsList hgt30 scrollMore">
-                           <a href="detailsPage.php" class="listBox">
-                              <div class="listImg">
-                                 <img src="assets/img/news1.jpg" alt="" class="w-100">
-                              </div>
-                              <div class="listInfo">
-                                 <p class="text-secondary">ହାଇପରସୋନିକ ସ୍ପିଡ କ୍ଷପଣାସ୍ତ୍ରର ସଫଳ ପରୀକ୍ଷଣ</p>
-                              </div>
-                           </a>
-                        <a href="detailsPage.php" class="listBox">
-                           <div class="listImg">
-                              <img src="assets/img/news3.jpg" alt="" class="w-100">
-                           </div>
-                           <div class="listInfo">
-                              <p class="text-secondary">ହାଇପରସୋନିକ ସ୍ପିଡ କ୍ଷପଣାସ୍ତ୍ରର ସଫଳ ପରୀକ୍ଷଣ</p>
-                           </div>
-                        </a>
-                     <a href="detailsPage.php" class="listBox">
-                        <div class="listImg">
-                           <img src="assets/img/news2.jpg" alt="" class="w-100">
-                        </div>
-                        <div class="listInfo">
-                           <p class="text-secondary">ହାଇପରସୋନିକ ସ୍ପିଡ କ୍ଷପଣାସ୍ତ୍ରର ସଫଳ ପରୀକ୍ଷଣ</p>
-                        </div>
-                     </a>
-                     <a href="detailsPage.php" class="listBox">
-                           <div class="listImg">
-                              <img src="assets/img/news1.jpg" alt="" class="w-100">
-                           </div>
-                           <div class="listInfo">
-                              <p class="text-secondary">ହାଇପରସୋନିକ ସ୍ପିଡ କ୍ଷପଣାସ୍ତ୍ରର ସଫଳ ପରୀକ୍ଷଣ</p>
-                           </div>
-                        </a>
-                     <a href="detailsPage.php" class="listBox">
-                        <div class="listImg">
-                           <img src="assets/img/news2.jpg" alt="" class="w-100">
-                        </div>
-                        <div class="listInfo">
-                           <p class="text-secondary">ହାଇପରସୋନିକ ସ୍ପିଡ କ୍ଷପଣାସ୍ତ୍ରର ସଫଳ ପରୀକ୍ଷଣ</p>
-                        </div>
-                     </a>
-                        </div>
+                        <div class="nbTags">
+									<a href="javascript:void();" class="nbtag-link">#ଶିକ୍ଷା</a>
+                           <a href="javascript:void();" class="nbtag-link">#ଖେଳ</a>
+                           <a href="javascript:void();" class="nbtag-link">#ରାଜନୀତି</a>
+									<a href="javascript:void();" class="nbtag-link">#କରୋନା ଭୂତାଣୁ</a>
+                           <a href="javascript:void();" class="nbtag-link">#ରାଜନୀତି</a>
+                           <a href="javascript:void();" class="nbtag-link">#ଶିକ୍ଷା</a>
+                           <a href="javascript:void();" class="nbtag-link">#ଖେଳ</a>
+                           <a href="javascript:void();" class="nbtag-link">#ରାଜନୀତି</a>
+									<a href="javascript:void();" class="nbtag-link">#କରୋନା ଭୂତାଣୁ</a>
+									<a href="javascript:void();" class="nbtag-link">#ରାଜନୀତି</a>
+								</div>
+                        
                         
                      </div>
                   </div>
